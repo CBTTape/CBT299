@@ -1,0 +1,25 @@
+2023-08-06 02:47:15.513158 - Initialized conversion of CBT299
+2023-08-06 02:47:15.770844 - Received CBT.V505.FILE299.PDS from FILE299.XMI 
+2023-08-06 02:47:15.773243 - Found $$$$NOTE.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$$$NOTE
+2023-08-06 02:47:15.774343 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:47:15.775292 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$$DOC
+2023-08-06 02:47:15.776312 - Found $$DOC.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$DOC
+2023-08-06 02:47:15.777243 - Found $$DOCHAL.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$DOCHAL
+2023-08-06 02:47:15.778117 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$NOTE1
+2023-08-06 02:47:15.779078 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$NOTE2
+2023-08-06 02:47:15.780010 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$$NOTE3
+2023-08-06 02:47:15.780881 - Found $ASM.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$ASM
+2023-08-06 02:47:15.781758 - Found $DTCNOTE.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/$DTCNOTE
+2023-08-06 02:47:15.782651 - Found @FILE299.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/@FILE299
+2023-08-06 02:47:15.783582 - Found JCLIEV90.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/JCLIEV90
+2023-08-06 02:47:15.784427 - Found JCLIFOX0.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/JCLIFOX0
+2023-08-06 02:47:15.795931 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE299.PDS
+2023-08-06 02:47:15.803503   - Received RECFM=U data, stored XMIT file as CBT299/LOADLIB.xmi
+2023-08-06 02:47:15.804418 - Found LOADLIB#.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/LOADLIB#
+2023-08-06 02:47:15.805239 - Found MAPTEST.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/MAPTEST
+2023-08-06 02:47:15.806154 - Found PARMFLGS.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/PARMFLGS
+2023-08-06 02:47:15.807181 - Found TAPEMAP.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/TAPEMAP
+2023-08-06 02:47:15.808142 - Found TAPEMAP$.jcl (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/TAPEMAP$
+2023-08-06 02:47:15.809230 - Found TAPEMAPM.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/TAPEMAPM
+2023-08-06 02:47:15.810284 - Found TAPEMAPO.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/TAPEMAPO
+2023-08-06 02:47:15.811413 - Found X3480.txt (text/plain) in CBT.V505.FILE299.PDS, moved to PDS/X3480
